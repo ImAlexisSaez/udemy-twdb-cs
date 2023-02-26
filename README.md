@@ -20,3 +20,10 @@ En la carpeta `section03` encontramos:
 -   `s03e06`: etiqueta `a` para crear hipervínculos, tanto externos, como internos.
 -   `s03e07`: etiqueta `img` para insertar imágenes, tanto locales, como hospedadas en otros sitios web.
 -   `s03e08`: comentarios en HTML.
+
+### Section 4: "HTML next steps & semantics"
+
+En la carpeta `section04` encontramos:
+
+-   `s04e01`: etiquetas `div` y `span`.
+-   `s04e02`: etiquetas `hr`, `br`, `sup` y `sub`.
