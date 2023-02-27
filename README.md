@@ -27,3 +27,6 @@ En la carpeta `section04` encontramos:
 
 -   `s04e01`: etiquetas `div` y `span`.
 -   `s04e02`: etiquetas `hr`, `br`, `sup` y `sub`.
+-   `s04e03`: uso de _entity codes_.
+-   `s04e04`: etiquetas con sentido semántico.
+-   `s04e05`: ejemplos de uso de _Emmet_.
