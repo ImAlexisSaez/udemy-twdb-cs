@@ -21,7 +21,7 @@ En la carpeta `section03` encontramos:
 -   `s03e07`: etiqueta `img` para insertar imágenes, tanto locales, como hospedadas en otros sitios web.
 -   `s03e08`: comentarios en HTML.
 
-### Section 4: "HTML next steps & semantics"
+### Section 4: "HTML, next steps & semantics"
 
 En la carpeta `section04` encontramos:
 
@@ -30,3 +30,12 @@ En la carpeta `section04` encontramos:
 -   `s04e03`: uso de _entity codes_.
 -   `s04e04`: etiquetas con sentido semántico.
 -   `s04e05`: ejemplos de uso de _Emmet_.
+
+### Section 5: "HTML, forms & tables"
+
+En la carpeta `section05` encontramos:
+
+-   `s05e01`: creación de tablas: elementos `tr`, `td` y `th`.
+-   `s05e02`: creación de tablas: elementos `thead`, `tbody` y `tfoot`.
+-   `s05e03`: creación de tablas: atributos `colspan` y `rowspan`.
+-   `s05e04`: creación de formularios: elemento `form`.
