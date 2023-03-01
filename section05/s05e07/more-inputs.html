@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Formularios II</title>
+    </head>
+    <body>
+        <h1>Formularios II</h1>
+        <form action="/">
+            <div>
+                <input type="checkbox" name="agree_tos" id="agree" checked />
+                <label for="agree">I agree to everything!</label>
+            </div>
+            <div>
+                <!-- Para agrupar radiobuttons hay que darles el mismo name -->
+                <label for="xs">XS</label>
+                <input type="radio" name="size" id="xs" value="xs" />
+                <label for="s">S</label>
+                <input type="radio" name="size" id="s" value="s" />
+                <label for="m">M</label>
+                <input type="radio" name="size" id="m" value="m" />
+            </div>
+            <div>
+                <label for="meal">Please, select an entree</label>
+                <select name="meal" id="meal">
+                    <option value="fish">Fish</option>
+                    <option value="veg">Vegetarien</option>
+                    <option value="steak" selected>Steak</option>
+                </select>
+            </div>
+            <div>
+                <label for="cheese">Amount of cheese</label>
+                <input
+                    type="range"
+                    id="cheese"
+                    min="0"
+                    max="10"
+                    name="cheese"
+                    step="2"
+                    value="4"
+                />
+            </div>
+            <div>
+                <label for="num">Number:</label>
+                <input
+                    type="number"
+                    min="1"
+                    max="21"
+                    step="2"
+                    value="9"
+                    name="num"
+                    id="num"
+                />
+            </div>
+            <div>
+                <textarea name="story" id="story" cols="30" rows="10">
+                </textarea>
+            </div>
+            <button>Submit!</button>
+        </form>
+    </body>
+</html>
