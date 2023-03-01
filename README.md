@@ -41,3 +41,6 @@ En la carpeta `section05` encontramos:
 -   `s05e04`: creación de formularios: elementos `form` e `input`.
 -   `s05e05`: creación de formulatios: elementos `label`, `button` y `name`.
 -   `s05e06`: formulario que lanza el término de búsqueda al buscador de _Google_, _Reddit_ o _Youtube_ a través del atributo `action`.
+-   `s05e07`: creación de formularios: otros tipos de `input`.
+-   `s05e08`: validación de campos en formularios.
+-   `s05e09`: ejemplo práctico: formulario de registro para una carrera.
