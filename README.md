@@ -44,3 +44,10 @@ En la carpeta `section05` encontramos:
 -   `s05e07`: creación de formularios: otros tipos de `input`.
 -   `s05e08`: validación de campos en formularios.
 -   `s05e09`: ejemplo práctico: formulario de registro para una carrera.
+
+### Section 6: "CSS, the very basics"
+
+En la carpeta `section06` encontramos:
+
+-   `s06e01`: formas de incluir CSS en un documento HTML.
+-   `s06e02`: color de texto y de fondo en CSS.
