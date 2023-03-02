@@ -51,3 +51,4 @@ En la carpeta `section06` encontramos:
 
 -   `s06e01`: formas de incluir CSS en un documento HTML.
 -   `s06e02`: color de texto y de fondo en CSS.
+-   `s06e03`: propiedades de texto en CSS.
