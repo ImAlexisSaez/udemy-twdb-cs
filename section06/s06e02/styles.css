@@ -1,0 +1,23 @@
+body {
+    background-color: #c5e;
+}
+
+button {  
+    background-color: cyan;  
+    color: magenta;
+}
+
+h1 {
+    background-color: antiquewhite;
+    color: teal;
+}
+
+h2 {
+    background-color: rgb(89, 151, 0);
+    color: indigo;
+}
+
+p {
+    background-color: #ffffff;
+    color: olive;
+}
